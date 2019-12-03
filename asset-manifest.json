@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/marbles/static/css/main.b100e6da.chunk.css",
+    "main.js": "/marbles/static/js/main.ac8b42ae.chunk.js",
+    "main.js.map": "/marbles/static/js/main.ac8b42ae.chunk.js.map",
+    "runtime-main.js": "/marbles/static/js/runtime-main.ad181a6e.js",
+    "runtime-main.js.map": "/marbles/static/js/runtime-main.ad181a6e.js.map",
+    "static/js/2.0d15df05.chunk.js": "/marbles/static/js/2.0d15df05.chunk.js",
+    "static/js/2.0d15df05.chunk.js.map": "/marbles/static/js/2.0d15df05.chunk.js.map",
+    "index.html": "/marbles/index.html",
+    "precache-manifest.52543112204003fb10107e42ab80e38d.js": "/marbles/precache-manifest.52543112204003fb10107e42ab80e38d.js",
+    "service-worker.js": "/marbles/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/marbles/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/marbles/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad181a6e.js",
+    "static/js/2.0d15df05.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.ac8b42ae.chunk.js"
+  ]
+}
