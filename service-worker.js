@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/marbles/precache-manifest.52543112204003fb10107e42ab80e38d.js"
+  "/marbles/precache-manifest.7429e68916f86ab181c43deef9b10921.js"
 );
 
 self.addEventListener('message', (event) => {
