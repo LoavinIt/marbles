@@ -1,22 +1,21 @@
 {
   "files": {
-    "main.css": "/marbles/static/css/main.b100e6da.chunk.css",
-    "main.js": "/marbles/static/js/main.425a1428.chunk.js",
-    "main.js.map": "/marbles/static/js/main.425a1428.chunk.js.map",
+    "main.css": "/marbles/static/css/main.99d289a1.chunk.css",
+    "main.js": "/marbles/static/js/main.27f15218.chunk.js",
+    "main.js.map": "/marbles/static/js/main.27f15218.chunk.js.map",
     "runtime-main.js": "/marbles/static/js/runtime-main.ad181a6e.js",
     "runtime-main.js.map": "/marbles/static/js/runtime-main.ad181a6e.js.map",
-    "static/js/2.4c00fdf1.chunk.js": "/marbles/static/js/2.4c00fdf1.chunk.js",
-    "static/js/2.4c00fdf1.chunk.js.map": "/marbles/static/js/2.4c00fdf1.chunk.js.map",
+    "static/js/2.9d649183.chunk.js": "/marbles/static/js/2.9d649183.chunk.js",
+    "static/js/2.9d649183.chunk.js.map": "/marbles/static/js/2.9d649183.chunk.js.map",
     "index.html": "/marbles/index.html",
-    "precache-manifest.7429e68916f86ab181c43deef9b10921.js": "/marbles/precache-manifest.7429e68916f86ab181c43deef9b10921.js",
+    "precache-manifest.985d331a2d1192b7a8d4a6690b539633.js": "/marbles/precache-manifest.985d331a2d1192b7a8d4a6690b539633.js",
     "service-worker.js": "/marbles/service-worker.js",
-    "static/css/main.b100e6da.chunk.css.map": "/marbles/static/css/main.b100e6da.chunk.css.map",
-    "static/media/logo.svg": "/marbles/static/media/logo.25bf045c.svg"
+    "static/css/main.99d289a1.chunk.css.map": "/marbles/static/css/main.99d289a1.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.ad181a6e.js",
-    "static/js/2.4c00fdf1.chunk.js",
-    "static/css/main.b100e6da.chunk.css",
-    "static/js/main.425a1428.chunk.js"
+    "static/js/2.9d649183.chunk.js",
+    "static/css/main.99d289a1.chunk.css",
+    "static/js/main.27f15218.chunk.js"
   ]
 }
